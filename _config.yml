@@ -49,7 +49,7 @@ author:
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # dex.razin
+  facebook         :  "dex.razin"
   # flickr           : # Username
   # foursquare       : # Username
   # goodreads        : # Username
@@ -57,7 +57,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/me-razin/"
+  linkedin         : "me-razin"
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
