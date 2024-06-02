@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about bangla handwritten character classification using transfer learning.'
 date: 2022-08-11
-venue: '2nd International Conference on Computing Advancements (ICCA '22). Association for Computing Machinery, New York, NY, USA'
+venue: '2nd International Conference on Computing Advancements (ICCA 22). Association for Computing Machinery, New York, NY, USA'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Md Abdul Karim, S M Rafiuddin, Md. Jahidul Islam Razin, and Tahira Alam. 2022. Isolated Bangla Handwritten Character Classification using Transfer Learning.'
 ---
