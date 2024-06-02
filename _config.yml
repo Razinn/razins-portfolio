@@ -25,7 +25,8 @@ author:
   name             : "Md. Jahidul Islam Razin"
   pronouns         : # example: "she/her"  
   bio              : "Researcher"
-  location         : "151/1 College Branch Road, Barguna, Bangladesh"
+  location         : "151/1 College Branch Road, 
+  Barguna,Bangladesh"
   employer         : "Evecutive & Data Coordinator - Dnet"
   uri              : # URL
   email            : "razin.cse@gmail.com" 
@@ -48,7 +49,7 @@ author:
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : "https://www.facebook.com/dex.razin"
+  facebook         : # dex.razin
   # flickr           : # Username
   # foursquare       : # Username
   # goodreads        : # Username
