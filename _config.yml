@@ -21,7 +21,7 @@ repository               : "https://github.com/Razinn/razins-portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Md. Jahidul Islam Razin"
   pronouns         : "He/him"  
   bio              : "Researcher"
